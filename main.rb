@@ -1,5 +1,5 @@
-require_relative 'alunos.rb'
-require_relative 'cursos.rb'
+require_relative 'aluno.rb'
+require_relative 'curso.rb'
 alunos = []
 cursos = []
 first_line = true
